@@ -15,7 +15,7 @@ HTML
         <header class="dash-header">
             <div class="logo">DevPortal</div>
             <div class="user-profile">
-                <span>Atim Akhtar</span>
+                <span>falak siddiqui</span>
                 <div class="avatar">AA</div>
             </div>
         </header>
